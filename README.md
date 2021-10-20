@@ -6,6 +6,33 @@ Shutdown WoW and copy [MikScrollingBattleText.lua](https://drive.google.com/file
 ## OmniCD
 Similar to the combat text install, except use [OmniCD.lua](https://drive.google.com/file/d/1o1kZC9Zv53bjitlK40PN_FBHBfIudSgS/view?usp=sharing)
 
+## Macros
+
+### DK Dissmiss/Control macro
+
+```
+#showtooltip
+/target pet
+/run PetDismiss()
+/use Control Undead
+/petassist
+```
+
+### Hover Kick Callout
+This one says "<hover target> next interupt!"
+
+```
+/run name = GetUnitName("mouseover");
+/run SendChatMessage(strjoin(" ", name, "next interrupt!"), "party")
+```
+
+This one says "<hover target> next interupt on <current target>"
+```
+/run name = GetUnitName("mouseover");
+/run tar = GetUnitName("target");
+/run SendChatMessage(strjoin(" ", name, "next interrupt on", tar), "party")
+```
+
 ## Weak Auras
 - [Efficient Stats ](https://wago.io/EfIy3LbVH) for showing stats on screen.
 
