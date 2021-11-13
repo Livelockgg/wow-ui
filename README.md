@@ -1,5 +1,8 @@
 # Addons
 
+This is supplemental material to my [YouTube
+channel](https://www.youtube.com/c/Livelock) where I have more details on the overall UI in a [dedicated video](https://www.youtube.com/watch?v=59wVqFQhYt0).
+
 ## MikScrollingBattleText
 Shutdown WoW and copy [MikScrollingBattleText.lua](https://drive.google.com/file/d/14kQInVGsOVKys858eR-kUZtpzg775r1J/view?usp=sharing) to `C:\Program Files (x86)\World of Warcraft\_retail_\WTF\Account\<account-name>\SavedVariables`. When you login, switch to the `Livelock combat text` profile in the settings. You can launch the settings with `/msbt`
 
