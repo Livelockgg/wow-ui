@@ -54,12 +54,10 @@ Everything I've made: https://wago.io/p/livelock#1146
 - https://wago.io/JoLcdqhPM
 
 ### Blood DK
-- https://wago.io/RGICgAU9g
-
-I also use [Death Strike healing prediction](https://wago.io/Lk5pzmZGW)
+- https://wago.io/1HFL7AoMJ
 
 ### Prot Warrior
-- https://wago.io/7j2_m89qa
+- https://wago.io/RVC6_mZGa
 
 I use a customized version of [Ignore Pain Tracker](https://wago.io/ByEbmw6mX) in the Weak Aura.
 
