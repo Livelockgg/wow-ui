@@ -53,6 +53,9 @@ Everything I've made: https://wago.io/p/livelock#1146
 ### Enhancement Shaman
 - https://wago.io/JoLcdqhPM
 
+### Shadow Priest
+- https://wago.io/MfDrQ-Qpv
+
 ### Blood DK
 - https://wago.io/1HFL7AoMJ
 
