@@ -53,6 +53,9 @@ Everything I've made: https://wago.io/p/livelock#1146
 ### Enhancement Shaman
 - https://wago.io/JoLcdqhPM
 
+### Arcane Mage
+- https://wago.io/eMBErvQBi
+
 ### Shadow Priest
 - https://wago.io/MfDrQ-Qpv
 
